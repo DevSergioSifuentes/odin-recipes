@@ -1,0 +1,66 @@
+html{
+    font-family: 'Trebuchet MS' , Arial, sans-serif;
+    
+}
+
+/* *{
+    border: solid 3px red;
+
+} */
+
+body{
+    width: 100vh;
+    height:100vh;
+    background-color: ghostwhite;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+ul{
+    display: block;
+    text-align: center;
+}
+
+li{
+    margin: 4px;
+    text-align: left;
+}
+
+.menu{
+    display:inline;
+    margin: 10px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    margin-bottom: -10px;
+}
+h3{
+    margin-bottom: -10px;
+}
+
+.complete-recipe{  
+    display: block; 
+}
+
+.ingredients-left{
+    display:inline-block;
+    width:25vh;
+    height:100%; 
+}
+.steps-right{
+    display:inline-block;
+    width: 70vh;
+    height:100%;
+}
+

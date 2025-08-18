@@ -7,3 +7,6 @@ this webpage, so no fancy styling!!
 I will be comitting each iteration marked by the instructions,so
 I can get used to the commit cycle.
 All images will be AI generated, so no copyrighting.
+
+17/08/2025 :
+Update: adding some CSS to style things. 
