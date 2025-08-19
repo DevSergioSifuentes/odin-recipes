@@ -10,8 +10,8 @@ html{
 
 body{
     width: 100vh;
-    height:100vh;
-    background-color: ghostwhite;
+    height:150vh;
+    background-color: ivory;
     box-sizing: border-box;
 }
 
@@ -40,6 +40,7 @@ li{
 img{
     display: block;
     margin: 0 auto;
+    border-radius: 10%;
 }
 
 h2{
@@ -57,10 +58,14 @@ h3{
     display:inline-block;
     width:25vh;
     height:100%; 
+    margin: 0 auto;
+    vertical-align: top;
 }
 .steps-right{
     display:inline-block;
     width: 70vh;
     height:100%;
+    margin: 0 auto;
+    vertical-align: top;
 }
 
